@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+   <meta charset="UTF-8">
+   <title> Student Bio </title>
+</head>
+
+
+<body>
+<h1> Student Bio </h1>
+<h2> Kelsie Daniels</h2>
+<p> Hello everyone! My name is Kelsie Daniels and I am a Video Producer for various organizations across Atlanta. </p>
+<h2> Contact Info </h2>
+<ul>
+ <li> Email </li>
+ <li> Github </li>
+ <li> Portfolio </li>
+ </ul>
+
+</body>
+</html>
